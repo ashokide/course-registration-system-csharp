@@ -1,0 +1,15 @@
+C:\Users\Ashok\Documents\CSharp\CourseRegistrationSystem\bin\Debug\CourseRegistrationSystem.exe.config
+C:\Users\Ashok\Documents\CSharp\CourseRegistrationSystem\bin\Debug\CourseRegistrationSystem.exe
+C:\Users\Ashok\Documents\CSharp\CourseRegistrationSystem\bin\Debug\CourseRegistrationSystem.pdb
+C:\Users\Ashok\Documents\CSharp\CourseRegistrationSystem\obj\Debug\CourseRegistrationSystem.csproj.AssemblyReference.cache
+C:\Users\Ashok\Documents\CSharp\CourseRegistrationSystem\obj\Debug\CourseRegistrationSystem.login.resources
+C:\Users\Ashok\Documents\CSharp\CourseRegistrationSystem\obj\Debug\CourseRegistrationSystem.Properties.Resources.resources
+C:\Users\Ashok\Documents\CSharp\CourseRegistrationSystem\obj\Debug\CourseRegistrationSystem.csproj.GenerateResource.cache
+C:\Users\Ashok\Documents\CSharp\CourseRegistrationSystem\obj\Debug\CourseRegistrationSystem.csproj.CoreCompileInputs.cache
+C:\Users\Ashok\Documents\CSharp\CourseRegistrationSystem\obj\Debug\CourseRegistrationSystem.exe
+C:\Users\Ashok\Documents\CSharp\CourseRegistrationSystem\obj\Debug\CourseRegistrationSystem.pdb
+C:\Users\Ashok\Documents\CSharp\CourseRegistrationSystem\obj\Debug\CourseRegistrationSystem.home.resources
+C:\Users\Ashok\Documents\CSharp\CourseRegistrationSystem\obj\Debug\CourseRegistrationSystem.register.resources
+C:\Users\Ashok\Documents\CSharp\CourseRegistrationSystem\obj\Debug\CourseRegistrationSystem.courseregister.resources
+C:\Users\Ashok\Documents\CSharp\CourseRegistrationSystem\obj\Debug\CourseRegistrationSystem.admin.resources
+C:\Users\Ashok\Documents\CSharp\CourseRegistrationSystem\obj\Debug\CourseRegistrationSystem.adminlogin.resources
